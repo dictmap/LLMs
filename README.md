@@ -23,19 +23,19 @@
 
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
-大模型微调方法 | Lora | Low-Rank Adaptation of Large Language Models |  [Web]() [Github](https://github.com/microsoft/LoRA) [Paper](https://arxiv.org/abs/2106.09685) [Colab]()  
-大模型微调方法 | Prefix-Tuning | Dynamic Prefix-Tuning for Generative Template-based Event Extraction |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2205.06166) [Colab]()  
-大模型微调方法 | P-Tuning | Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks |  [Web]() [Github](https://github.com/THUDM/P-tuning) [Paper](https://aclanthology.org/2022.acl-short.8/) [Colab]()  
-大模型微调方法 | P-Tuning v2 | Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2110.07602) [Colab]()  
+大模型微调 | Lora | Low-Rank Adaptation of Large Language Models |  [Web]() [Github](https://github.com/microsoft/LoRA) [Paper](https://arxiv.org/abs/2106.09685) [Colab]()  
+大模型微调 | Prefix-Tuning | Dynamic Prefix-Tuning for Generative Template-based Event Extraction |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2205.06166) [Colab]()  
+大模型微调 | P-Tuning | Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks |  [Web]() [Github](https://github.com/THUDM/P-tuning) [Paper](https://aclanthology.org/2022.acl-short.8/) [Colab]()  
+大模型微调 | P-Tuning v2 | Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2110.07602) [Colab]()  
   
 ## 代码生成模型
 
 类别 | 名称 | 描述 | 链接  
 ---|---|---|---  
-代码生成模型 | Copilot | Your AI pair programmer |[web](https://github.com/features/copilot/) [Github](https://github.com/github/copilot-docs) [paper]()  
-代码生成模型 | CodeGeeX | CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X |  [web](https://codegeex.cn/zh-CN) [Github](https://github.com/THUDM/CodeGeeX) [paper](https://arxiv.org/abs/2303.17568)  
-代码生成模型 | CodeGen | CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis |  [web](https://cloud.codegen.cc/) [Github](https://github.com/salesforce/CodeGen) [paper](https://arxiv.org/abs/2203.13474)  
-代码生成模型 | InCoder | InCoder: A Generative Model for Code Infilling and Synthesis |  [web](https://sites.google.com/view/incoder-code-models) [Github](https://github.com/dpfried/incoder) [paper](https://arxiv.org/abs/2204.05999)  
+代码生成 | Copilot | Your AI pair programmer |[web](https://github.com/features/copilot/) [Github](https://github.com/github/copilot-docs) [paper]()  
+代码生成 | CodeGeeX | CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X |  [web](https://codegeex.cn/zh-CN) [Github](https://github.com/THUDM/CodeGeeX) [paper](https://arxiv.org/abs/2303.17568)  
+代码生成 | CodeGen | CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis |  [web](https://cloud.codegen.cc/) [Github](https://github.com/salesforce/CodeGen) [paper](https://arxiv.org/abs/2203.13474)  
+代码生成 | InCoder | InCoder: A Generative Model for Code Infilling and Synthesis |  [web](https://sites.google.com/view/incoder-code-models) [Github](https://github.com/dpfried/incoder) [paper](https://arxiv.org/abs/2204.05999)  
   
 ## 语音转文字
 
@@ -54,15 +54,15 @@
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
 分词 | Jieba（结巴）中文分词 |结巴分词是一个非常流行的中文分词工具，提供基于前缀词典实现高效的词图扫描，生成句子中汉字所有可能成词情况所构成的有向无环图（DAG），并采用动态规划查找最大概率路径，找出基于词频的最大切分组合。|  [WEB]() [Github](https://github.com/fxsjy/jieba)  
-分词、词性标注、依存句法分析 | SnowNLP |SnowNLP是一个Python写的中文自然语言处理库，可以方便地处理中文文本内容，提供了中文分词、词性标注、情感分析等功能。 |  [WEB]() [Github](https://github.com/isnowfy/snownlp)  
-分词、词性标注、依存句法分析 | THULAC | 清华大学自然语言处理与社会人文计算实验室研制的一套中文词法分析工具包，具有中文分词和词性标注功能。 |[WEB](http://thulac.thunlp.org/) [Github](https://github.com/thunlp/THULAC-Python)  
-分词、词性标注、依存句法分析 | LTP |由哈尔滨工业大学社会计算与信息检索研究中心开发的一套中文自然语言处理系统，提供了中文分词、词性标注、命名实体识别等功能。 |[WEB](http://ltp.ai/) [Github](https://github.com/HIT-SCIR/ltp)  
-分词、词性标注、依存句法分析 | PKUSEG | 北京大学的一款多领域中文分词工具，可以根据不同领域需求进行分词。 |  [WEB]() [Github](https://github.com/lancopku/pkuseg-python)  
-分词、词性标注、依存句法分析 | FudanNLP |复旦大学自然语言处理实验室的自然语言处理工具包，提供了分词、词性标注、命名实体识别、依存句法分析等功能。 |  [WEB]() [Github](https://github.com/FudanNLP/fnlp)  
-分词、词性标注、依存句法分析 | HanLP | HanLP是一款NLP工具包，提供了中文分词、词性标注、命名实体识别、短语提取、自动摘要等功能。 |[WEB](https://www.hanlp.com/) [Github](https://github.com/hankcs/HanLP)  
-分词、词性标注、依存句法分析 | NLPIR |NLPIR是中国科学院计算技术研究所开发的一套自然语言处理工具包，提供了中文分词、词性标注、关键词提取、命名实体识别等功能。通过该工具，可以实现中文依存句法分析。|  [WEB](http://ictclas.nlpir.org/) [Github](https://github.com/NLPIR-team/NLPIR)  
-分词、词性标注、依存句法分析 | StanfordNLP |StanfordNLP是斯坦福大学开发的一款自然语言处理工具包，提供了依存句法分析功能。该库是基于Java的StanfordCoreNLP的Python接口，可以处理多种语言，包括中文。 |  [WEB]() [Github](https://github.com/stanfordnlp/stanfordnlp)  
-分词、词性标注、依存句法分析 | SpaCy |SpaCy是一个强大的自然语言处理库，提供多种功能，包括依存句法分析。它包含多种预训练模型，可以直接用于中文依存句法分析。 |[WEB](https://spacy.io/) [Github](https://github.com/explosion/spaCy)  
+基础 | SnowNLP |SnowNLP是一个Python写的中文自然语言处理库，可以方便地处理中文文本内容，提供了中文分词、词性标注、情感分析等功能。 |  [WEB]() [Github](https://github.com/isnowfy/snownlp)  
+基础 | THULAC | 清华大学自然语言处理与社会人文计算实验室研制的一套中文词法分析工具包，具有中文分词和词性标注功能。 |[WEB](http://thulac.thunlp.org/) [Github](https://github.com/thunlp/THULAC-Python)  
+基础 | LTP |由哈尔滨工业大学社会计算与信息检索研究中心开发的一套中文自然语言处理系统，提供了中文分词、词性标注、命名实体识别等功能。 |[WEB](http://ltp.ai/) [Github](https://github.com/HIT-SCIR/ltp)  
+基础 | PKUSEG | 北京大学的一款多领域中文分词工具，可以根据不同领域需求进行分词。 |  [WEB]() [Github](https://github.com/lancopku/pkuseg-python)  
+基础 | FudanNLP |复旦大学自然语言处理实验室的自然语言处理工具包，提供了分词、词性标注、命名实体识别、依存句法分析等功能。 |  [WEB]() [Github](https://github.com/FudanNLP/fnlp)  
+基础 | HanLP | HanLP是一款NLP工具包，提供了中文分词、词性标注、命名实体识别、短语提取、自动摘要等功能。 |[WEB](https://www.hanlp.com/) [Github](https://github.com/hankcs/HanLP)  
+基础 | NLPIR |NLPIR是中国科学院计算技术研究所开发的一套自然语言处理工具包，提供了中文分词、词性标注、关键词提取、命名实体识别等功能。通过该工具，可以实现中文依存句法分析。|  [WEB](http://ictclas.nlpir.org/) [Github](https://github.com/NLPIR-team/NLPIR)  
+基础 | StanfordNLP |StanfordNLP是斯坦福大学开发的一款自然语言处理工具包，提供了依存句法分析功能。该库是基于Java的StanfordCoreNLP的Python接口，可以处理多种语言，包括中文。 |  [WEB]() [Github](https://github.com/stanfordnlp/stanfordnlp)  
+基础 | SpaCy |SpaCy是一个强大的自然语言处理库，提供多种功能，包括依存句法分析。它包含多种预训练模型，可以直接用于中文依存句法分析。 |[WEB](https://spacy.io/) [Github](https://github.com/explosion/spaCy)  
   
 ## 机器翻译
 
