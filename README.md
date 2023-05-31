@@ -24,9 +24,9 @@
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
 大模型微调方法 | Lora | Low-Rank Adaptation of Large Language Models |  [Web]() [Github](https://github.com/microsoft/LoRA) [Paper](https://arxiv.org/abs/2106.09685) [Colab]()  
-大模型微调方法 | Prefix-Tuning | Dynamic Prefix-Tuning for Generative Template-based Event Extraction |  [Web]() [Github](https://arxiv.org/abs/2205.06166) [Paper](https://github.com/XiangLi1999/PrefixTuning) [Colab]()  
+大模型微调方法 | Prefix-Tuning | Dynamic Prefix-Tuning for Generative Template-based Event Extraction |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2205.06166) [Colab]()  
 大模型微调方法 | P-Tuning | Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks |  [Web]() [Github](https://github.com/THUDM/P-tuning) [Paper](https://aclanthology.org/2022.acl-short.8/) [Colab]()  
-大模型微调方法 | P-Tuning v2 | Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks |  [Web]() [Github](https://arxiv.org/abs/2110.07602) [Paper](https://github.com/XiangLi1999/PrefixTuning) [Colab]()  
+大模型微调方法 | P-Tuning v2 | Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks |  [Web]() [Github](https://github.com/XiangLi1999/PrefixTuning) [Paper](https://arxiv.org/abs/2110.07602) [Colab]()  
   
 ## 代码生成模型
 
@@ -41,9 +41,9 @@
 
 类别 | 名称 | 描述 | 链接  
 ---|---|---|---  
-语音转文字 | Google 语音识别 API | 【收费】Google Speech-to-Text API支持实时语音转文字、长时间的录音文件识别，以及多种语音编码格式。它可以在各种情境下，如电话、视频、语音助手等方面识别多达120种语言和方言。 |[官网](https://cloud.google.com/speech-to-text) [示例](javascript:showExample\(1\);)  
-语音转文字 | 腾讯云语音识别 API |【收费】腾讯云语音识别API支持60种语言和多种语音编码格式。它可以实时转换语音为文字，并适用于电话、视频、语音助手等场景。 |[官网](https://www.tencentcloud.com/zh/products/asr) [示例](javascript:showExample\(2\);)  
-语音转文字 | 百度语音识别 API |【收费】百度语音识别API支持实时语音识别、长时间的录音文件识别，以及多种语音编码格式。它支持普通话、粤语、四川话等多种方言，适用于电话、视频、语音助手等场景。|  [官网](https://cloud.tencent.com/product/asr) [示例](javascript:showExample\(3\);)  
+语音转文字 | Google 语音识别 API | 【收费】Google Speech-to-Text API支持实时语音转文字、长时间的录音文件识别，以及多种语音编码格式。它可以在各种情境下，如电话、视频、语音助手等方面识别多达120种语言和方言。 |[官网](https://cloud.google.com/speech-to-text) [示例]()  
+语音转文字 | 腾讯云语音识别 API |【收费】腾讯云语音识别API支持60种语言和多种语音编码格式。它可以实时转换语音为文字，并适用于电话、视频、语音助手等场景。 |[官网](https://www.tencentcloud.com/zh/products/asr) [示例]()  
+语音转文字 | 百度语音识别 API |【收费】百度语音识别API支持实时语音识别、长时间的录音文件识别，以及多种语音编码格式。它支持普通话、粤语、四川话等多种方言，适用于电话、视频、语音助手等场景。|  [官网](https://cloud.tencent.com/product/asr) [示例]()  
 语音转文字 | iFLYTEK 语音识别 API | 【收费】iFLYTEK是科大讯飞推出的一款语音识别服务。它支持多种语言，包括中文。在中文语音识别领域，iFLYTEK 的表现尤为出色。 |[官网](https://www.xfyun.cn/services/voicedictation) [示例]()  
 语音转文字 | CMU Sphinx 语音识别 | CMU Sphinx 是一个免费、开源的语音识别系统，由卡内基梅隆大学开发。它支持多种语言，包括中文。|  [官网](https://cmusphinx.github.io/) [GitHub](https://github.com/cmusphinx)  
 语音转文字 | Mozilla DeepSpeech 语音识别 | Mozilla DeepSpeech是一个免费、开源的基于深度学习的语音识别系统。DeepSpeech支持多种语言，包括中文。 |[官网](https://www.mozilla.org/en-US/firefox/voice/) [GitHub](https://github.com/mozilla/DeepSpeech)  
@@ -113,13 +113,13 @@
 
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
-Python的自然语言处理库 | NLTK | NLTK官方文档。Python的自然语言处理库，用于文本分析。 | [官网](https://www.nltk.org/)  
-Python的自然语言处理库 | SpaCy |SpaCy官方文档。Python的自然语言处理库，用于高级自然语言处理任务，包括词性标注、句法解析和实体识别。 | [官网](https://spacy.io/usage)  
-Python的自然语言处理库 | Gensim | Gensim官方文档。Python的自然语言处理库，用于主题建模和文档相似度计算。 | [官网](https://radimrehurek.com/gensim/)  
-Python的自然语言处理库 | StanfordNLP |StanfordNLP官方文档。Python的自然语言处理库，由斯坦福大学开发，用于词性标注、命名实体识别、依存句法解析等任务。 | [官网](https://stanfordnlp.github.io/stanfordnlp/)  
-Python的自然语言处理库 | TextBlob |TextBlob官方文档。Python的自然语言处理库，用于简化文本处理任务，包括词性标注、名词短语提取、情感分析等。 | [官网](https://textblob.readthedocs.io/en/dev/)  
-Python的自然语言处理库 | Pattern |Pattern官方文档。Python的自然语言处理库，用于词性标注、情感分析、数据挖掘等任务，包含一些预处理和可视化工具。 | [官网](https://polyglot.readthedocs.io/en/latest/)  
-Python的自然语言处理库 | Flair |Flair官方文档。Python的自然语言处理库，用于词性标注、命名实体识别、情感分析等任务，支持预训练的语言模型和迁移学习。 | [官网](https://github.com/flairNLP/flair)  
+Python的自然语言处理库 | NLTK | NLTK官方文档。Python的自然语言处理库，用于文本分析。 |[官网](https://www.nltk.org/)  
+Python的自然语言处理库 | SpaCy |SpaCy官方文档。Python的自然语言处理库，用于高级自然语言处理任务，包括词性标注、句法解析和实体识别。 |[官网](https://spacy.io/usage)  
+Python的自然语言处理库 | Gensim | Gensim官方文档。Python的自然语言处理库，用于主题建模和文档相似度计算。 |[官网](https://radimrehurek.com/gensim/)  
+Python的自然语言处理库 | StanfordNLP |StanfordNLP官方文档。Python的自然语言处理库，由斯坦福大学开发，用于词性标注、命名实体识别、依存句法解析等任务。 |[官网](https://stanfordnlp.github.io/stanfordnlp/)  
+Python的自然语言处理库 | TextBlob |TextBlob官方文档。Python的自然语言处理库，用于简化文本处理任务，包括词性标注、名词短语提取、情感分析等。 |[官网](https://textblob.readthedocs.io/en/dev/)  
+Python的自然语言处理库 | Pattern |Pattern官方文档。Python的自然语言处理库，用于词性标注、情感分析、数据挖掘等任务，包含一些预处理和可视化工具。 |[官网](https://polyglot.readthedocs.io/en/latest/)  
+Python的自然语言处理库 | Flair |Flair官方文档。Python的自然语言处理库，用于词性标注、命名实体识别、情感分析等任务，支持预训练的语言模型和迁移学习。 |[官网](https://github.com/flairNLP/flair)  
 Python的自然语言处理库 | AllenNLP |AllenNLP官方文档。Python的自然语言处理库，由AI2开发，基于PyTorch构建，用于构建高级NLP模型，支持多种任务，如语义角色标注、核心引用解析等。| [官网](https://allenai.org/allennlp)  
   
 ## 机器学习库
