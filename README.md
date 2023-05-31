@@ -113,13 +113,13 @@
 
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
-Python的自然语言处理库 | NLTK | NLTK官方文档。Python的自然语言处理库，用于文本分析。 |[官网](https://www.nltk.org/)  
-Python的自然语言处理库 | SpaCy |SpaCy官方文档。Python的自然语言处理库，用于高级自然语言处理任务，包括词性标注、句法解析和实体识别。 |[官网](https://spacy.io/usage)  
-Python的自然语言处理库 | Gensim | Gensim官方文档。Python的自然语言处理库，用于主题建模和文档相似度计算。 |[官网](https://radimrehurek.com/gensim/)  
-Python的自然语言处理库 | StanfordNLP |StanfordNLP官方文档。Python的自然语言处理库，由斯坦福大学开发，用于词性标注、命名实体识别、依存句法解析等任务。 |[官网](https://stanfordnlp.github.io/stanfordnlp/)  
-Python的自然语言处理库 | TextBlob |TextBlob官方文档。Python的自然语言处理库，用于简化文本处理任务，包括词性标注、名词短语提取、情感分析等。 |[官网](https://textblob.readthedocs.io/en/dev/)  
-Python的自然语言处理库 | Pattern |Pattern官方文档。Python的自然语言处理库，用于词性标注、情感分析、数据挖掘等任务，包含一些预处理和可视化工具。 |[官网](https://polyglot.readthedocs.io/en/latest/)  
-Python的自然语言处理库 | Flair |Flair官方文档。Python的自然语言处理库，用于词性标注、命名实体识别、情感分析等任务，支持预训练的语言模型和迁移学习。 |[官网](https://github.com/flairNLP/flair)  
+Python的自然语言处理库 | NLTK | NLTK官方文档。Python的自然语言处理库，用于文本分析。 | [官网](https://www.nltk.org/)  
+Python的自然语言处理库 | SpaCy |SpaCy官方文档。Python的自然语言处理库，用于高级自然语言处理任务，包括词性标注、句法解析和实体识别。 | [官网](https://spacy.io/usage)  
+Python的自然语言处理库 | Gensim | Gensim官方文档。Python的自然语言处理库，用于主题建模和文档相似度计算。 | [官网](https://radimrehurek.com/gensim/)  
+Python的自然语言处理库 | StanfordNLP |StanfordNLP官方文档。Python的自然语言处理库，由斯坦福大学开发，用于词性标注、命名实体识别、依存句法解析等任务。 | [官网](https://stanfordnlp.github.io/stanfordnlp/)  
+Python的自然语言处理库 | TextBlob |TextBlob官方文档。Python的自然语言处理库，用于简化文本处理任务，包括词性标注、名词短语提取、情感分析等。 | [官网](https://textblob.readthedocs.io/en/dev/)  
+Python的自然语言处理库 | Pattern |Pattern官方文档。Python的自然语言处理库，用于词性标注、情感分析、数据挖掘等任务，包含一些预处理和可视化工具。 | [官网](https://polyglot.readthedocs.io/en/latest/)  
+Python的自然语言处理库 | Flair |Flair官方文档。Python的自然语言处理库，用于词性标注、命名实体识别、情感分析等任务，支持预训练的语言模型和迁移学习。 | [官网](https://github.com/flairNLP/flair)  
 Python的自然语言处理库 | AllenNLP |AllenNLP官方文档。Python的自然语言处理库，由AI2开发，基于PyTorch构建，用于构建高级NLP模型，支持多种任务，如语义角色标注、核心引用解析等。| [官网](https://allenai.org/allennlp)  
   
 ## 机器学习库
