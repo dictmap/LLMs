@@ -160,16 +160,11 @@ Matplotlib的数据可视化库 | Seaborn | Seaborn官方文档。基于Matplotl
 编程语言 | C | C官方文档。通用编程语言，广泛应用于操作系统和嵌入式系统开发。 |[官网](https://www.gnu.org/software/libc/manual/)  
 编程语言 | Node.js | Node.js官方文档。JavaScript运行时环境，用于开发服务器端应用。 |[官网](https://nodejs.org/en/docs/)  
 编程语言 | Ruby | Ruby官方文档。通用编程语言，适用于Web开发、脚本编写等领域。 | [官网](https://www.ruby-lang.org/en/documentation/)  
-编程语言 | Rust | Rust官方文档。系统编程语言，注重性能和安全，适用于系统开发。 | [官网](https://doc.rust-lang.org/book/)  
 编程语言 | Go | Go官方文档。通用编程语言，适用于后端开发、分布式系统等领域。 | [官网](https://golang.org/doc/)  
 编程语言 | Swift | Swift官方文档。通用编程语言，主要用于苹果平台应用开发。 |[官网](https://docs.swift.org/swift-book/)  
-编程语言 | Kotlin | Kotlin官方文档。通用编程语言，兼容Java，适用于Android开发。 |[官网](https://kotlinlang.org/docs/reference/)  
 编程语言 | Scala | Scala官方文档。通用编程语言，兼容Java，适用于大数据处理。 | [官网](https://docs.scala-lang.org/)  
 编程语言 | Haskell | Haskell官方文档。纯函数式编程语言，适用于学术研究和算法实现。 |[官网](https://www.haskell.org/documentation/)  
 编程语言 | R | R官方文档。编程语言和软件环境，主要用于统计计算和数据可视化。 |[官网](https://cran.r-project.org/manuals.html)  
-编程语言 | Lua | Lua官方文档。轻量级脚本语言，广泛应用于游戏开发和嵌入式系统。 |[官网](https://www.lua.org/docs.html)  
-编程语言 | PHP | PHP官方文档。通用编程语言，主要用于服务器端Web开发。 |[官网](https://www.php.net/docs.php)  
-编程语言 | Julia | Julia官方文档。通用编程语言，适用于科学计算和数据处理。 |[官网](https://docs.julialang.org/en/v1/)  
   
 ## 数据库
 
