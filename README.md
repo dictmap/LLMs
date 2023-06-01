@@ -24,7 +24,7 @@
 ---|---|---|---  
 综合 | ChatGLM | 开源双语对话语言模型 |  [Web](https://models.aminer.cn/) [Github](https://github.com/THUDM/ChatGLM-6B)  
 综合 | ChatGPT 学术优化 | 专为科研工作设计的 ChatGPT 扩展 | [Web]() [Github](https://github.com/binary-husky/chatgpt_academic)  
-综合 | HuggingGPT | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace |  [Github](https://github.com/microsoft/JARVIS) [paper](https://arxiv.org/abs/2303.17580)  
+综合 | HuggingGPT | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace |  [Web]() [Github](https://github.com/microsoft/JARVIS) [paper](https://arxiv.org/abs/2303.17580)  
 
 ## 微调大模型
 
@@ -81,7 +81,7 @@
 
 类别 | 资源名（Name） | 描述（Description） | 链接  
 ---|---|---|---  
-语料库 | 人名语料库 |  | [Github](https://github.com/wainshine/Chinese-Names-Corpus)  
+语料库 |  |  | [Github]()  
   
 # 比赛库
 
