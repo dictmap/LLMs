@@ -13,12 +13,19 @@
 综合 | ChatGPT | OpenAI 开发的大型 AI 产品 | [官网](https://chat.openai.com/chat)  
 综合 | Claude | 下一代 AI 助手，应对各种规模任务 | [官网](https://www.anthropic.com/product)  
 综合 | ChatGLM | 开源双语对话语言模型 |  [官网](https://models.aminer.cn/) [Github](https://github.com/THUDM/ChatGLM-6B)  
-综合 | 文心一言 | 百度公司开发的大型 AI 产品 | [官网](https://yiyan.baidu.com/)  
-综合 | 通义千问 | 阿里公司开发的大型 AI 产品 | [官网](https://tongyi.aliyun.com/)  
+综合 | 文心一言 | 百度公司开发的大型大模型产品 | [官网](https://yiyan.baidu.com/)  
+综合 | 通义千问 | 阿里公司开发的大型大模型产品 | [官网](https://tongyi.aliyun.com/)  
+综合 | 星火认知 | 科大讯飞开发的大型大模型产品 | [官网](https://xinghuo.xfyun.cn/)
 综合 | ChatPDF | 一个与 PDF 对话的网站 | [官网](https://www.chatpdf.com/)  
+
+## 学术类大模型
+
+类别 | 名称 | 描述 | 链接  
+---|---|---|---  
+综合 | ChatGLM | 开源双语对话语言模型 |  [官网](https://models.aminer.cn/) [Github](https://github.com/THUDM/ChatGLM-6B)  
 综合 | ChatGPT 学术优化 | 专为科研工作设计的 ChatGPT 扩展 | [Github](https://github.com/binary-husky/chatgpt_academic)  
 综合 | HuggingGPT | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace |  [Github](https://github.com/microsoft/JARVIS) [paper](https://arxiv.org/abs/2303.17580)  
-  
+
 ## 微调大模型
 
 类别 | 资源名（Name） | 描述（Description） | 链接  
